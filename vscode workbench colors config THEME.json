@@ -1,0 +1,54 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#01000e",
+        "sideBar.background": "#060416",
+        "menu.background": "#050311",
+        "input.background": "#292738",
+        "panel.background": "#01000e",
+        "terminal.background": "#01000e",
+        "dropdown.background": "#060416",
+        "list.hoverBackground": "#2b293f",
+        "activityBar.background": "#11111d",
+        "titleBar.activeBackground": "#1c1b2b",
+        "list.dropBackground": "#060416",
+        "quickInput.background": "#060416",
+        "editorGroupHeader.tabsBackground": "#060416",
+        "tab.inactiveBackground": "#11111d",
+        "tab.border": "#1c1b2b",
+        "statusBarItem.remoteBackground": "#2377bd",
+        "activityBarBadge.background": "#a8009a",
+        "statusBar.background": "#520b4c",
+        "editorWidget.background": "#060416",
+        "badge.background": "#2d2c46",
+        "list.inactiveSelectionBackground": "#1c1b2b",
+        "editorMarkerNavigation.background": "#2d2c46",
+        "editor.foreground": "#d4d4d4",
+        "editor.inactiveSelectionBackground": "#3a3d41",
+        "editor.selectionHighlightBackground": "#add6ff26",
+        "editorIndentGuide.activeBackground": "#707070",
+        "editorIndentGuide.background": "#404040",
+        "input.placeholderForeground": "#a6a6a6",
+        "menu.foreground": "#cccccc",
+        "sideBarSectionHeader.background": "#00000000",
+        "sideBarSectionHeader.border": "#cccccc33",
+        "sideBarTitle.foreground": "#bbbbbb",
+        "statusBarItem.remoteForeground": "#ffffff",
+        "tab.lastPinnedBorder": "#cccccc33",
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "entity.name.function",
+                    "support.function",
+                    "support.constant.handlebars",
+                    "source.powershell variable.other.member",
+                    "entity.name.operator.custom-literal"
+                ],
+                "settings": {
+                    "foreground": "#ffffaa",
+                }
+            }
+        ]
+    }
+}
