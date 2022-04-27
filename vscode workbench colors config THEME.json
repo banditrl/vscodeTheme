@@ -50,5 +50,6 @@
                 }
             }
         ]
-    }
+    },
+    "terminal.integrated.tabs.enabled": false
 }
